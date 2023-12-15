@@ -19,7 +19,7 @@ export default function Index({ posts, globalData }) {
           {globalData.blogTitle}
         </h1>
 
-      <a href="https://www.craftyartapp.com/"> Crafty art link </a>
+      <b <a href="https://www.craftyartapp.com/"> Crafty art link </a></b>
 
         <ul className="w-full">
           {posts.map((post) => (
