@@ -11,6 +11,8 @@ import SEO from '../components/SEO';
 export default function Index({ posts, globalData }) {
   return (
     <Layout>
+
+    <a href="https://www.craftyartapp.com/"> Crafty art link </a>
       <SEO title={globalData.name} description={globalData.blogTitle} />
       <Header name={globalData.name} />
       <main className="w-full">
