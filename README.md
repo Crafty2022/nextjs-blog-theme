@@ -12,10 +12,7 @@ A customizable blog starter using:
 - Includes modern design with dark & light themes
 
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
-
-[Take a gander at the demo.](https://bejamas-nextjs-blog.netlify.app)
-
-[Click here to watch the template walkthrough!](https://www.youtube.com/watch?v=63QZHs259dY)
+https://www.craftyartapp.com/templates/invitation
 
 ## Table of Contents:
 
