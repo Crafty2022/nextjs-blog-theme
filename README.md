@@ -90,7 +90,6 @@ Since the posts are written in `MDX` format you can pass props and components. T
 https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-93ed-922d11187073.mp4
 
 https://www.craftyartapp.com/invitation
-https://www.craftyartapp.com/templates/invitation
 
 ## Testing
 
@@ -111,6 +110,8 @@ In order to keep our project up-to-date with dependencies we use a tool called [
 ### Removing Cypress
 
 For our testing, we use [Cypress](https://www.cypress.io/) for end-to-end testing. This makes sure that we can validate that our templates are rendering and displaying as we’d expect. By default, we have Cypress not generate deploy links if our tests don’t pass. If you’d like to keep Cypress and still generate the deploy links, go into your `netlify.toml` and delete the plugin configuration lines:
+
+https://www.craftyartapp.com/templates/invitation
 
 ```diff
 [[plugins]]
