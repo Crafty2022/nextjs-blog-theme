@@ -1,8 +1,3 @@
-![Netlify Next.js Blog Template designed by Bejamas](https://user-images.githubusercontent.com/43764894/223762618-62742b4e-9424-44a7-8e85-9f7e4e19db54.png)
-
-
-[![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
-
 
 A customizable blog starter using:
 
@@ -49,6 +44,24 @@ yarn run dev
 ```
 
 Open your browser and visit <http://localhost:3000>, your project should be running!
+
+https://gravatar.com/craftoh
+
+https://www.behance.net/gallery/198432031/hindu-wedding-card-design
+
+https://pastebin.com/u/craftoh
+
+https://www.openstreetmap.org/user/jessicajhonas
+
+https://bitbucket.org/bentolest/bayern1/issues/48/france-vs-belgium-live-stream
+
+https://list.ly/jessicajohnss
+
+https://letterboxd.com/jessicajohn/
+
+https://devpost.com/craftyart
+
+https://www.craftyartapp.com/k/hindu-wedding-cards
 
 ### Using the Setup Wizard
 
