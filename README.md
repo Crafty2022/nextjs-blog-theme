@@ -7,7 +7,7 @@ A customizable blog starter using:
 - Includes modern design with dark & light themes
 
 ![Preview of blog theme. Author named Jay Doe and blog's name is "Next.js Blog Theme" with one blog post](nextjs-blog-theme-preview.png)
-https://www.craftyartapp.com/templates/invitation
+[https://www.craftyartapp.com/templates/invitation](https://www.craftyartapp.com/k/online-marriage-invitation-card-maker)
 
 ## Table of Contents:
 
