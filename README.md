@@ -61,7 +61,7 @@ https://letterboxd.com/jessicajohn/
 
 https://devpost.com/craftyart
 
-https://www.craftyartapp.com/k/hindu-wedding-cards
+https://www.craftyartapp.com/k/online-marriage-invitation-card-maker
 
 ### Using the Setup Wizard
 
